@@ -5,7 +5,7 @@
 ### Author : [Cognitive Class](https://cognitiveclass.ai/) 
 Link Course : [Natural Language Processing with Hugging Face Transformers](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0AIAEN+v1)
 
-### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of The Art of Prompt Engineering from [Cognitive Class](https://cognitiveclass.ai/)
+### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of Natural Language Processing with Hugging Face Transformers from [Cognitive Class](https://cognitiveclass.ai/)
 
 ---
 
